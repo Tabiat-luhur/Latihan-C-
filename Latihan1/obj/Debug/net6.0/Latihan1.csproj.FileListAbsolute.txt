@@ -1,0 +1,15 @@
+F:\02_C#\Latihan1\bin\Debug\net6.0\Latihan1.exe
+F:\02_C#\Latihan1\bin\Debug\net6.0\Latihan1.deps.json
+F:\02_C#\Latihan1\bin\Debug\net6.0\Latihan1.runtimeconfig.json
+F:\02_C#\Latihan1\bin\Debug\net6.0\Latihan1.dll
+F:\02_C#\Latihan1\bin\Debug\net6.0\Latihan1.pdb
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.csproj.AssemblyReference.cache
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.GeneratedMSBuildEditorConfig.editorconfig
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.AssemblyInfoInputs.cache
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.AssemblyInfo.cs
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.csproj.CoreCompileInputs.cache
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.dll
+F:\02_C#\Latihan1\obj\Debug\net6.0\refint\Latihan1.dll
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.pdb
+F:\02_C#\Latihan1\obj\Debug\net6.0\Latihan1.genruntimeconfig.cache
+F:\02_C#\Latihan1\obj\Debug\net6.0\ref\Latihan1.dll
